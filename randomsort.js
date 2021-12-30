@@ -3,3 +3,4 @@ var myarray=[25, 8, "George", "John"];
     return 0.5 - Math.random()});
     console.log(myarray)
   //trial check
+...........
